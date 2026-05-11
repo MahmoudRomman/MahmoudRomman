@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm [Mahmoud Abu-Romman] 👋
 ### Python Backend Developer | Software Engineer
 
 I'm a Software Engineer specializing in Python, Django framework, RESTful APIs, and PostgreSQL. Skilled in designing and developing scalable web applications and backend systems. Successfully implemented and deployed a deep learning application as a graduation project, leading to a published work. Adept at solving complex problems and passionate about leveraging technology to deliver innovative solutions.
@@ -34,5 +34,5 @@ I'm a Software Engineer specializing in Python, Django framework, RESTful APIs, 
 ---
 
 ### 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[YOUR_LINKEDIN])
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/update/urn:li:activity:7456054308808122368/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahmoud.sayyedahmed900@gmail.com)
