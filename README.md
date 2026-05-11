@@ -1,6 +1,6 @@
 # Hi there, I'm Mahmoud Abu-Romman 👋
 
-## Python Backend Developer | Software Engineer
+## Software Engineer | Python Backend Developer
 
 Python Backend Developer focused on building scalable backend systems, RESTful APIs, and production-ready web applications using Django, Django REST Framework, PostgreSQL, Redis, and Celery.
 
@@ -35,7 +35,7 @@ I enjoy solving complex backend problems, designing clean architectures, optimiz
 
 ## Featured Projects
 
-### <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/592edd79-4603-4cf6-90b7-cecd4f3394b4" /> Enterprise Resource Planning (ERP) System
+### ⚙️ Enterprise Resource Planning (ERP) System
 *A comprehensive Inventory & Workforce Management system designed to streamline operations and financial tracking.*
 
 *   **Key Solutions:**
