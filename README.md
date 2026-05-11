@@ -22,7 +22,7 @@ I enjoy solving complex backend problems, designing clean architectures, optimiz
 
 ---
 
-### Tech Stack & Tools:
+## Tech Stack & Tools:
 
 | Category | Technologies |
 | --- | --- |
