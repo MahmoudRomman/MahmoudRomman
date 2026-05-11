@@ -163,26 +163,14 @@ An automated product tracking system that monitors product prices and sends noti
 ### Tech Stack
 Django • Celery • Redis • PostgreSQL
 
-🔗 GitHub Repository: https://github.com/your-link
+🔗 GitHub Repository: [https://github.com/your-link](https://github.com/MahmoudRomman/Product_Price_Tracker)
 
 ---
 
 # 📊 GitHub Statistics
 
 ![Mahmoud's GitHub stats](https://github-readme-stats.vercel.app/api?username=MahmoudRomman&show_icons=true&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudRomman&layout=compact&theme=radical)
-
----
-
-# 🧠 Currently Learning
-
-- Advanced System Design
-- Scalable Backend Architectures
-- Microservices Architecture
-- DevOps & CI/CD Workflows
-- Performance Optimization
-- Cloud Deployment
 
 ---
 
@@ -198,13 +186,5 @@ Django • Celery • Redis • PostgreSQL
 # 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-abu-romman-229508208/)
-
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201223548005)
-
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahmoud.sayyedahmed900@gmail.com)
-
----
-
-# ⚡ Fun Fact
-
-I enjoy building backend systems more than designing user interfaces 😄
