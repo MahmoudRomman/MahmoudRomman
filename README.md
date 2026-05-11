@@ -33,72 +33,10 @@ I enjoy solving complex backend problems, designing clean architectures, optimiz
 
 ---
 
-## Featured Projects:
-
-## 🏦 Mini-ERP System:
-
-### Overview
-A secure banking backend system built using Django REST Framework with JWT authentication, account management, money transfers, and transaction tracking.
-
-### Features
-- JWT Authentication & Authorization
-- Account Management
-- Balance Tracking
-- Money Transfers
-- Transaction History
-- Role-Based Permissions
-- RESTful API Architecture
-
-### Tech Stack
-Python • Django • DRF • PostgreSQL • JWT
-
-🔗 GitHub Repository: https://github.com/your-link
-
----
-
-## 💳 E-Commerce Payment System
-
-### Overview
-A complete payment integration system using Stripe with secure checkout sessions, webhook handling, and multi-currency support.
-
-### Features
-- Stripe Checkout Integration
-- Payment Status Tracking
-- Webhooks Handling
-- Email Notifications
-- Multi-Currency Support
-- Secure API Endpoints
-
-### Tech Stack
-Django • DRF • Stripe • PostgreSQL • Celery
-
-🔗 GitHub Repository: https://github.com/your-link
-
----
-
-## 📈 Price Tracker Bot
-
-### Overview
-An automated product tracking system that monitors product prices and sends notifications when price changes occur.
-
-### Features
-- Automated Price Tracking
-- Scheduled Tasks with Celery
-- Redis Queue Management
-- Web Scraping
-- Notification System
-
-### Tech Stack
-Django • Celery • Redis • PostgreSQL
-
-🔗 GitHub Repository: https://github.com/MahmoudRomman/Product_Price_Tracker
-
----
-
 ## 🚀 Featured Projects
 
 ### 🏗️ Enterprise Resource Planning (ERP) System 
-**LuxeBeauty Company (Remote Project)**
+**Remote Project**
 *A comprehensive Inventory & Workforce Management system designed to streamline operations and financial tracking.*
 
 *   **Key Solutions:**
