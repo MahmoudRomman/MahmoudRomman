@@ -95,6 +95,48 @@ Django • Celery • Redis • PostgreSQL
 
 ---
 
+## 🚀 Featured Projects
+
+### 🏗️ Enterprise Resource Planning (ERP) System 
+**LuxeBeauty Company (Remote Project)**
+*A comprehensive Inventory & Workforce Management system designed to streamline operations and financial tracking.*
+
+*   **Key Solutions:**
+    *   **Real-time Analytics:** Interactive dashboard for data visualization of company performance.
+    *   **Automated HR Logic:** Penalty and attendance tracking with automatic salary adjustments.
+    *   **Efficient Processing:** Integrated **Celery & Redis** for handling heavy background tasks (Reports, Emailing).
+    *   **Financial Integrity:** Robust system for tracking billing, collections, and employee contributions.
+*   **Tech Stack:** `Python` • `Django` • `Celery` • `Redis` • `PostgreSQL`
+*   🔒 *Private Repository (Enterprise Project)*
+
+---
+
+### 🛒 Scalable E-Commerce Backend Engine
+*A modular RESTful API architecture designed for high-performance online retail.*
+
+*   **Key Solutions:**
+    *   **Financial Integration:** Implemented **Stripe API** for secure, multi-currency payment processing and webhooks.
+    *   **Advanced Cart Logic:** Dynamic shopping cart operations with real-time order tracking.
+    *   **Modular Design:** Built with a focus on scalability to support future feature expansion.
+*   **Tech Stack:** `Python` • `Django REST Framework (DRF)` • `Stripe API` • `PostgreSQL`
+*   📂 *Architecture available for discussion*
+
+---
+
+### 📈 Intelligent Price Tracker Bot (In Progress)
+*An automated system for monitoring product price fluctuations across various platforms.*
+
+*   **Key Solutions:**
+    *   **Web Scraping:** Extracting real-time data from dynamic product pages.
+    *   **Task Scheduling:** Automated periodic checks using **Celery Beat**.
+    *   **Notification System:** Instant user alerts upon price drops or availability changes.
+*   **Tech Stack:** `Python` • `Django` • `Celery` • `Redis` • `BeautifulSoup`
+*   🔗 [View on GitHub](https://github.com/MahmoudRomman/Product_Price_Tracker)
+
+---
+
+---
+
 ## Career Goals:
 
 - Build scalable production-grade backend systems
