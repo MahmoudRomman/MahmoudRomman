@@ -95,6 +95,17 @@ I enjoy solving complex backend problems, designing clean architectures, optimiz
 
 ---
 
+### 2. 🛠 Tech Stack & Tools
+
+| Category | Technologies |
+| --- | --- |
+| **Backend** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white) ![DRF](https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white) |
+| **Databases** | ![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) |
+| **DevOps & Tools** | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Fedora](https://img.shields.io/badge/fedora-%2329417d.svg?style=for-the-badge&logo=fedora&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) |
+| **Asynchronous Tasks** | ![Celery](https://img.shields.io/badge/celery-%2337814A.svg?style=for-the-badge&logo=celery&logoColor=white) |
+
+---
+
 # 📌 Featured Projects
 
 ## 🏦 Mini-ERP System
