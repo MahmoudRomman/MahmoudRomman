@@ -4,7 +4,7 @@
 I'm a Software Engineer specializing in Python, Django framework, RESTful APIs, and PostgreSQL. Skilled in designing and developing scalable web applications and backend systems. Successfully implemented and deployed a deep learning application as a graduation project, leading to a published work. Adept at solving complex problems and passionate about leveraging technology to deliver innovative solutions.
 ---
 
-### 2. 🛠 Tech Stack & Tools
+### Tech Stack & Tools
 
 | Category | Technologies |
 | --- | --- |
@@ -15,7 +15,7 @@ I'm a Software Engineer specializing in Python, Django framework, RESTful APIs, 
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 #### 🏦 [Banking System](https://github.com/your-link)
 *   **Description:** A robust banking backend with JWT authentication and transaction management.
@@ -28,8 +28,8 @@ I'm a Software Engineer specializing in Python, Django framework, RESTful APIs, 
 ---
 
 ### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[mahmoudromman]&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[mahmoudromman]&layout=compact&theme=radical)
 
 ---
 
