@@ -33,7 +33,7 @@ I enjoy solving complex backend problems, designing clean architectures, optimiz
 
 ---
 
-# Featured Projects:
+## Featured Projects:
 
 ## 🏦 Mini-ERP System:
 
@@ -95,7 +95,7 @@ Django • Celery • Redis • PostgreSQL
 
 ---
 
-# Career Goals:
+## Career Goals:
 
 - Build scalable production-grade backend systems
 - Work on high-performance distributed applications
@@ -104,7 +104,7 @@ Django • Celery • Redis • PostgreSQL
 
 ---
 
-# Connect With Me:
+## Connect With Me:
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-abu-romman-229508208/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201223548005)
