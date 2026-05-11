@@ -10,7 +10,7 @@ I enjoy solving complex backend problems, designing clean architectures, optimiz
 
 ![](https://komarev.com/ghpvc/?username=MahmoudRomman&color=blueviolet&style=flat-square)
 
-## Backend Expertise:
+## Backend Expertise
 
 - RESTful API Development
 - Authentication & Authorization (JWT)
@@ -22,7 +22,7 @@ I enjoy solving complex backend problems, designing clean architectures, optimiz
 
 ---
 
-## Tech Stack & Tools:
+## Tech Stack & Tools
 
 | Category | Technologies |
 | --- | --- |
@@ -33,9 +33,9 @@ I enjoy solving complex backend problems, designing clean architectures, optimiz
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🏗️ Enterprise Resource Planning (ERP) System
+### <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/592edd79-4603-4cf6-90b7-cecd4f3394b4" /> Enterprise Resource Planning (ERP) System
 *A comprehensive Inventory & Workforce Management system designed to streamline operations and financial tracking.*
 
 *   **Key Solutions:**
@@ -72,9 +72,7 @@ I enjoy solving complex backend problems, designing clean architectures, optimiz
 
 ---
 
----
-
-## Career Goals:
+## Career Goals
 
 - Build scalable production-grade backend systems
 - Work on high-performance distributed applications
@@ -83,7 +81,7 @@ I enjoy solving complex backend problems, designing clean architectures, optimiz
 
 ---
 
-## Connect With Me:
+## Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-abu-romman-229508208/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201223548005)
