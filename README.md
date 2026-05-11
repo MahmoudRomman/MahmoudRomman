@@ -35,8 +35,7 @@ I enjoy solving complex backend problems, designing clean architectures, optimiz
 
 ## 🚀 Featured Projects
 
-### 🏗️ Enterprise Resource Planning (ERP) System 
-**Remote Project**
+### 🏗️ Enterprise Resource Planning (ERP) System
 *A comprehensive Inventory & Workforce Management system designed to streamline operations and financial tracking.*
 
 *   **Key Solutions:**
