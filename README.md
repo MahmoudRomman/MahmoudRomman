@@ -1,8 +1,7 @@
 # Hi there, I'm [Your Name] 👋
 ### Python Backend Developer | Software Engineer
 
-I'm a passionate Backend Developer focused on building scalable, clean, and efficient web applications. I love diving into complex architectural patterns and exploring the world of AI Agents and RAG.
-
+I'm a Software Engineer specializing in Python, Django framework, RESTful APIs, and PostgreSQL. Skilled in designing and developing scalable web applications and backend systems. Successfully implemented and deployed a deep learning application as a graduation project, leading to a published work. Adept at solving complex problems and passionate about leveraging technology to deliver innovative solutions.
 ---
 
 ### 2. 🛠 Tech Stack & Tools
