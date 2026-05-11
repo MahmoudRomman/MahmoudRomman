@@ -10,7 +10,7 @@ I enjoy solving complex backend problems, designing clean architectures, optimiz
 
 ![](https://komarev.com/ghpvc/?username=MahmoudRomman&color=blueviolet&style=flat-square)
 
-## 🚀 Backend Expertise
+## Backend Expertise:
 
 - RESTful API Development
 - Authentication & Authorization (JWT)
@@ -22,7 +22,7 @@ I enjoy solving complex backend problems, designing clean architectures, optimiz
 
 ---
 
-### 🛠 Tech Stack & Tools
+### Tech Stack & Tools:
 
 | Category | Technologies |
 | --- | --- |
@@ -33,9 +33,9 @@ I enjoy solving complex backend problems, designing clean architectures, optimiz
 
 ---
 
-# 📌 Featured Projects
+# Featured Projects:
 
-## 🏦 Mini-ERP System
+## 🏦 Mini-ERP System:
 
 ### Overview
 A secure banking backend system built using Django REST Framework with JWT authentication, account management, money transfers, and transaction tracking.
@@ -95,14 +95,7 @@ Django • Celery • Redis • PostgreSQL
 
 ---
 
-# 📊 GitHub Statistics
-
-![Mahmoud's GitHub stats](https://github-readme-stats.vercel.app/api?username=MahmoudRomman&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudRomman&layout=compact&theme=radical)
-
----
-
-# 🎯 Career Goals
+# Career Goals:
 
 - Build scalable production-grade backend systems
 - Work on high-performance distributed applications
@@ -111,7 +104,7 @@ Django • Celery • Redis • PostgreSQL
 
 ---
 
-# 📫 Connect With Me
+# Connect With Me:
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-abu-romman-229508208/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201223548005)
